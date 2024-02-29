@@ -1,2 +1,3 @@
-# dcarpent74.github.io
-Top level pages repository
+# dcarpent74 GitHub Pages:
+
+[random-blog](random-blog) - Just a place for some simple blogging.
