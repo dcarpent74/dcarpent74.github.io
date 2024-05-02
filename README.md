@@ -5,5 +5,6 @@
 ...
 
 [2024 Hybrid Resume](2024-hybrid-resume.pdf)
+[Beta Story Resume](Resume-story.pdf)
 
 ...
